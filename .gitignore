@@ -1,0 +1,11 @@
+# Python stuff
+env/
+__pycache__/
+
+# application data
+chest_xray/data/
+
+tensorflow-developer-course/data/
+
+# Mac OS X stuff
+.DS_Store
